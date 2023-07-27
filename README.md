@@ -39,7 +39,7 @@ I'm too lazy to write a bio ¯\\_(ツ)_/¯
 [![My npm packages](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~quentin_lamamy)
 [![My codepen Profile](https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/quentin_lamamy)
 [![My stack ovoerflow profile](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7177724/quentin-lamamy)
-[![My Gist](https://img.shields.io/badge/Gist-000000?style=for-the-badge&logo=github&logoColor=white)]([https://stackoverflow.com/users/7177724/quentin-lamamy](https://gist.github.com/quentinlamamy))
+[![My Gist](https://img.shields.io/badge/Gist-000000?style=for-the-badge&logo=github&logoColor=white)]([https://gist.github.com/quentinlamamy))
 
 
 ## My networks
