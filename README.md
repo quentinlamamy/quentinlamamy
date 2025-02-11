@@ -45,8 +45,6 @@ I'm too lazy to write a bio ¯\\_(ツ)_/¯
 ## My networks
 
 [![My Linked In](https://img.shields.io/badge/linked%20in-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-lamamy/)
-[![My Personal Twitter](https://img.shields.io/badge/Personal%20Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quentin_lamamy)
-
 
 ```
      _._     _,-'""`-._
