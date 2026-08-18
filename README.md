@@ -1,4 +1,4 @@
-<img src="banner.jpg?raw=true" alt="banner"/>
+<img src="media/banner.jpg" alt="banner"/>
 
 ## Quentin Lamamy
 
